@@ -92,7 +92,5 @@ Running `run_pipeline.py` recreates the raw synthetic dataset and all CSV output
 
 This is an intentionally lightweight demonstration. A production implementation would add a governed database, access controls, encryption, formal schema versioning, electronic approvals, validated deployment controls, and domain-expert review. Possible extensions include SQLite storage, a Streamlit interface, and support for multiple study configurations.
 
-## Portfolio description
 
-> Built a configuration-driven Python pipeline that validates, cleans, and packages synthetic clinical-study data according to sponsor-specific transfer requirements. Implemented JSON rules, audit logging, automated tests, sponsor-ready exports, and an Excel data-quality report.
 
