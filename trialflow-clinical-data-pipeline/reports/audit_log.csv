@@ -1,0 +1,5 @@
+row_number,sample_id,field,original_value,cleaned_value,reason
+5,SMP-0004,visit_name,week4,Week 4,Mapped approved visit alias
+9,SMP-0008,collection_date,02/14/2026,2026-02-14,Converted date to sponsor format
+13,SMP-0012,result_unit,cells/ul,cells/uL,Mapped approved unit alias
+17,SMP-0016,subject_id, SUBJ-004 ,SUBJ-004,Trimmed surrounding whitespace

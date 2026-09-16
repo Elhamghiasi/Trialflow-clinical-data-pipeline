@@ -1,0 +1,14 @@
+metric,value
+Total records,30
+Passing records,23
+Failing records,7
+Pass rate,0.7667
+Total validation issues,7
+Automatic corrections,4
+Sponsor-ready records,23
+Issues: allowed_unit,1
+Issues: allowed_values,1
+Issues: numeric,1
+Issues: required,1
+Issues: result_range,1
+Issues: unique,2

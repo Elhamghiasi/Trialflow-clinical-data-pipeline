@@ -1,0 +1,8 @@
+row_number,sample_id,field,rule,severity,message
+21,SMP-0020,subject_id,required,Error,subject_id is required
+22,SMP-0021,sample_id,unique,Error,Duplicate sample_id: SMP-0021
+23,SMP-0021,sample_id,unique,Error,Duplicate sample_id: SMP-0021
+25,SMP-0024,visit_name,allowed_values,Error,Visit is not approved
+27,SMP-0026,test_result,numeric,Error,Result must be numeric
+28,SMP-0027,test_result,result_range,Error,Result must be between 0.0 and 100.0
+31,SMP-0030,result_unit,allowed_unit,Error,Unit is not approved for this test
