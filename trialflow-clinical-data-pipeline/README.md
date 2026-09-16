@@ -1,6 +1,6 @@
 # TrialFlow: Clinical Data Quality Pipeline
 
-TrialFlow is a compact portfolio project that simulates a client data management workflow for a fictional clinical study. It validates synthetic study records against sponsor-specific JSON rules, applies safe corrections, preserves an audit trail, and produces a sponsor-ready CSV plus an Excel quality report.
+TrialFlow is a project that simulates a client data management workflow for a fictional clinical study. It validates synthetic study records against sponsor-specific JSON rules, applies safe corrections, preserves an audit trail, and produces a sponsor-ready CSV plus an Excel quality report.
 
 The project uses **synthetic data only**. It does not contain patient information and is not intended for clinical decision-making.
 
